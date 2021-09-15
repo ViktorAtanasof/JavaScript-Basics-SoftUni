@@ -1,0 +1,11 @@
+function georgesBooks(input){
+    let totalPages = Number(input[0]);
+    let pagesPerHours = Number(input[1]);
+    let totalDaysToReadABook = Number(input[2]);
+
+    let hoursForABook = totalPages / pagesPerHours
+    let hoursPerDay = hoursForABook / 2
+
+    console.log(hoursPerDay)
+}
+georgesBooks(["250","25","10"]);
