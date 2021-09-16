@@ -1,0 +1,7 @@
+function convertor(input){
+    let dollar = Number(input[0]); 
+    let lev = dollar * 1.79549;
+    
+    console.log(lev);
+}
+convertor(["22"])
