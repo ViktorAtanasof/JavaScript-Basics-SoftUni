@@ -17,6 +17,4 @@ function areaofFigures (input) {
         console.log((a*ha /2).toFixed(3));
     }
 }
-areaofFigures(["triangle",
-"4.5",
-"20"])
+areaofFigures(["triangle","4.5","20"])
