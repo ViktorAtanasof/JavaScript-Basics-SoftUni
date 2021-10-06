@@ -1,4 +1,4 @@
-function cinema(input) {
+function cinema (input) {
     let ticket = input[0];
     let r = Number(input[1]);
     let c = Number(input[2]);
@@ -13,6 +13,4 @@ function cinema(input) {
     }
     console.log(`${stonks.toFixed(2)} leva`);
 }
-cinema(["Premiere",
-"10",
-"12"])
+cinema(["Premiere","10","12"])
