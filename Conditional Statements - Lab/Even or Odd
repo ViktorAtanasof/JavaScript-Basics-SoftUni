@@ -1,4 +1,4 @@
-function evenorOdd(input) {
+function evenorOdd (input) {
     let a = Number(input[0]);
 
     if (a % 2 === 0) {
