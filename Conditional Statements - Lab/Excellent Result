@@ -1,4 +1,4 @@
-function excellentResult(input) {
+function excellentResult (input) {
     let grade = Number(input[0]);
 
     if (grade >= 5.50 ) {
