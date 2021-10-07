@@ -1,4 +1,4 @@
-function speedInfo(input) {
+function speedInfo (input) {
     let speed = Number(input[0]);
 
     if (speed <= 10) {
