@@ -1,4 +1,4 @@
-function areaofFigures (input) {
+function areaofFigures(input) {
     let figure = (input[0]); 
 
     if (figure === "square") {
