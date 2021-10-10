@@ -1,4 +1,4 @@
-function number100to200 (input) {
+function number100to200(input) {
     let number = Number(input[0]);
 
     if (number < 100) {
