@@ -1,4 +1,4 @@
-function cinema (input) {
+function cinema(input) {
     let ticket = input[0];
     let r = Number(input[1]);
     let c = Number(input[2]);
