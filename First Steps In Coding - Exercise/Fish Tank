@@ -1,4 +1,4 @@
-function fishTank (input){
+function fishTank(input){
     let lenght = Number(input[0]);
     let width = Number(input[1]);
     let height = Number(input[2]);
