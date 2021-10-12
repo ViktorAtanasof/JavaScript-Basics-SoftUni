@@ -1,4 +1,4 @@
-function journey (input) {
+function journey(input) {
     let budget = Number(input[0]);
     let season = input[1]
     let price = 0;
