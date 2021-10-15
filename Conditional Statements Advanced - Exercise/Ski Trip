@@ -1,4 +1,4 @@
-function skiTrip(input) {
+function skiTrip (input) {
     let day = Number(input.shift());
     let roomType = input.shift();
     let score = input.shift();
@@ -58,4 +58,4 @@ function skiTrip(input) {
 
     console.log((result).toFixed(2));
 }
-skiTrip(["2","apartment","positive"])
+skiTrip(["2","apartment" ,"positive"])
