@@ -1,4 +1,4 @@
-function operationsBetweenNumbers (input) {
+function operationsBetweenNumbers(input) {
     let n1 = Number(input[0]);
     let n2 = Number(input[1]);
     let op = input[2];
