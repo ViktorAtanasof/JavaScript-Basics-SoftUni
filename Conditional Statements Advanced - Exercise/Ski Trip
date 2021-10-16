@@ -1,4 +1,4 @@
-function skiTrip (input) {
+function skiTrip(input) {
     let day = Number(input.shift());
     let roomType = input.shift();
     let score = input.shift();
