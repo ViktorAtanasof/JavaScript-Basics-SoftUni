@@ -1,4 +1,4 @@
-function vowelsSum (input) {
+function vowelsSum(input) {
     let word = input[0];
     let sum = 0;
 
