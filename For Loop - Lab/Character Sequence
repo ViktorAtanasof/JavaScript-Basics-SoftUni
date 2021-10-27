@@ -6,4 +6,4 @@ function characterSequence(input) {
     }
 }
 characterSequence(["softuni"])
-aaaa
+aaa
