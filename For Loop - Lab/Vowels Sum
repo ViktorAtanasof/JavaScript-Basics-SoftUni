@@ -20,4 +20,3 @@ function vowelsSum(input) {
 vowelsSum(["hello"])
 a
 a
-a
