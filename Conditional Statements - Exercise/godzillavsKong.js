@@ -5,11 +5,11 @@ function godzillavsKong(input) {
 
     let extrasPrice = extras * clothingPrice;
     let decorPrice = movieBudget * 0.10;
-    let totalPrice = 0
+    let totalPrice = 0;
 
 
     if (extras > 150) {
-        extrasPrice = extrasPrice * 0.90
+        extrasPrice = extrasPrice * 0.90;
     }
     let sumPrice = extrasPrice + decorPrice;
 
@@ -23,4 +23,4 @@ function godzillavsKong(input) {
         console.log(`Wingard needs ${totalPrice.toFixed(2)} leva more.`);
     }
 }
-godzillavsKong(["20000","120","55.5"])
+godzillavsKong(["20000","120","55.5"])'
