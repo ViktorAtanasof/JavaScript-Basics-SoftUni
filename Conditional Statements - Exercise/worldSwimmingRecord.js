@@ -16,4 +16,4 @@ function worldSwimmingRecord(input) {
         console.log(`No, he failed! He was ${recordDifference.toFixed(2)} seconds slower.`);
     }
 }
-worldSwimmingRecord(["10464","1500","20"])
+worldSwimmingRecord(["10464","1500","20"]);
