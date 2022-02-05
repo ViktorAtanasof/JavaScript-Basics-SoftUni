@@ -6,11 +6,11 @@ function toyShop(input) {
     let minion = Number(input[4]);
     let truckToy = Number(input[5]);
 
-    let toyPrice = puzzle * 2.60 + talkingDoll * 3 + teddyBear * 4.10 + minion * 8.20 + truckToy * 2
-    let toyCount = puzzle + talkingDoll + teddyBear + minion + truckToy
-    let shopRent = 0
-    let sumTotal = 0
-    let totalProfit = 0
+    let toyPrice = puzzle * 2.60 + talkingDoll * 3 + teddyBear * 4.10 + minion * 8.20 + truckToy * 2;
+    let toyCount = puzzle + talkingDoll + teddyBear + minion + truckToy;
+    let shopRent = 0;
+    let sumTotal = 0;
+    let totalProfit = 0;
 
     if (toyCount >= 50) {
         toyPrice = toyPrice * 0.75;
@@ -23,7 +23,7 @@ function toyShop(input) {
     }
     if (toyCount < 50) {
         shopRent = toyPrice * 0.10;
-        totalProfit = toyPrice - shopRent
+        totalProfit = toyPrice - shopRent;
     }
     if (totalProfit < priceVacation) {
         sumTotal = Math.abs(totalProfit - priceVacation);
@@ -31,4 +31,4 @@ function toyShop(input) {
     }
 }
 
-toyShop(["320","8","2","5","5","1"])
+toyShop(["320","8","2","5","5","1"]);
