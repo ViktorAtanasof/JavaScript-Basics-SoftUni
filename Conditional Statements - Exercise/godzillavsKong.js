@@ -23,4 +23,5 @@ function godzillavsKong(input) {
         console.log(`Wingard needs ${totalPrice.toFixed(2)} leva more.`);
     }
 }
+
 godzillavsKong(["20000","120","55.5"])'
