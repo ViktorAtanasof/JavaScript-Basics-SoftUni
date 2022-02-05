@@ -19,4 +19,5 @@ function bonusScore(input) {
     console.log(points + bonus);
 
 }
+
 bonusScore(["2703"]);
