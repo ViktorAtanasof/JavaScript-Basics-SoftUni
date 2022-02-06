@@ -7,4 +7,5 @@ function evenorOdd(input) {
         console.log("odd");
     }
 }
-evenorOdd(["1024"])
+
+evenorOdd(["1024"]);
