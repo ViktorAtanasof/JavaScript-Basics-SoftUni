@@ -8,4 +8,5 @@ function greaterNumber(input) {
         console.log(b);
     }
 }
-greaterNumber(["-5", "5"])
+
+greaterNumber(["-5", "5"]);
