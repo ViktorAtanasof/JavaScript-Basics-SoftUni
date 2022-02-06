@@ -9,4 +9,5 @@ function number100to200(input) {
         console.log("Between 100 and 200");
     }
 }
-number100to200(["210"])
+
+number100to200(["210"]);
