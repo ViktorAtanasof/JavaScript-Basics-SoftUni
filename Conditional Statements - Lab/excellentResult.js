@@ -5,4 +5,5 @@ function excellentResult(input) {
         console.log("Excellent!");
     }
 }
-excellentResult(["6"])
+
+excellentResult(["6"]);
