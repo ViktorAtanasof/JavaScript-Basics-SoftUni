@@ -7,4 +7,5 @@ function passwordGuess(input) {
         console.log("Wrong password!");
     }
 }
-passwordGuess(["s3cr3t!P@ssw0rd"])
+
+passwordGuess(["s3cr3t!P@ssw0rd"]);
