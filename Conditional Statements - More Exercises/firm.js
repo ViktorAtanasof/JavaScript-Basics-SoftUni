@@ -11,10 +11,11 @@ function company(input) {
 
     if (totalWorkingHours >= requiredHours) {
         diff = Math.abs(totalWorkingHours - requiredHours);
-        console.log(`Yes!${diff} hours left.`)
+        console.log(`Yes!${diff} hours left.`);
     } else if (totalWorkingHours < requiredHours) {
         diff = Math.abs(requiredHours - totalWorkingHours);
-        console.log(`Not enough time!${diff} hours needed.`)
+        console.log(`Not enough time!${diff} hours needed.`);
     }
 }
+
 company(["99", "3", "1"]);
