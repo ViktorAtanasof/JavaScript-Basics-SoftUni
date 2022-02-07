@@ -13,4 +13,5 @@ function speedInfo(input) {
         console.log("extremely fast");
     }
 }
-speedInfo(["1600"])
+
+speedInfo(["1600"]);
