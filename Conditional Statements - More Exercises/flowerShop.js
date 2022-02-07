@@ -17,4 +17,5 @@ function flowerShop(input) {
         console.log(`She will have to borrow ${Math.ceil(diff)} leva.`);
     }
 }
-flowerShop(["2", "3", "5", "1", "50.56"])
+
+flowerShop(["2", "3", "5", "1", "50.56"]);
