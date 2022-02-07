@@ -11,4 +11,5 @@ function fuelTank(input) {
         console.log(`Fill your tank with ${fuelTypeLowerCase}!`);
     }
 }
-fuelTank(["Gas", "25"])
+
+fuelTank(["Gas", "25"]);
