@@ -19,4 +19,4 @@ function sleepyTomCat(input) {
     }
 }
 
-tom(["20"]);
+sleepyTomCat(["20"]);
