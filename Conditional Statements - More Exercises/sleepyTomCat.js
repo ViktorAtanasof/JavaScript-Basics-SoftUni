@@ -1,4 +1,4 @@
-function tom(input) {
+function sleepyTomCat(input) {
     let breakDays = Number(input[0]);
     let playingWithTomInBreakDays = breakDays * 127;
     let playingWithTomInWorkDays = (365 - breakDays) * 63;
@@ -18,4 +18,5 @@ function tom(input) {
         console.log(`${Math.floor(hours)} hours and ${minutes} minutes less for play`);
     }
 }
-tom(["20"])
+
+tom(["20"]);
