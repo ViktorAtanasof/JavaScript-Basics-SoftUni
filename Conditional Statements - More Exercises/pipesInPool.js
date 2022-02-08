@@ -18,4 +18,5 @@ function pipesInPool(input) {
         console.log(`For ${hoursOffline.toFixed(2)} hours the pool overflows with ${totalPipeFill.toFixed(2)} liters.`);
     }
 }
-pipesInPool(["1000","100","120","3"])
+
+pipesInPool(["1000","100","120","3"]);
