@@ -18,4 +18,5 @@ function harvest(input) {
         console.log(`${Math.ceil(diff)} liters left -> ${Math.ceil(winePerPerson)} liters per person.`);
     }
 }
+
 harvest(["1020", "1.5", "425", "4"]);
