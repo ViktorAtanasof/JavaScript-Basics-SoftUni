@@ -19,4 +19,5 @@ function pets(input) {
         console.log(`${Math.ceil(diff)} more kilos of food are needed.`);
     }
 }
-pets(["5", "10", "2.1", "0.8", "321"])
+
+pets(["5", "10", "2.1", "0.8", "321"]);
