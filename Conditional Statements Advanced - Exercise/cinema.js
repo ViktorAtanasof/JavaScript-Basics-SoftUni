@@ -13,4 +13,5 @@ function cinema(input) {
     }
     console.log(`${gain.toFixed(2)} leva`);
 }
-cinema(["Premiere","10","12"])
+
+cinema(["Premiere","10","12"]);
