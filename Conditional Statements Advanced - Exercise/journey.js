@@ -1,6 +1,6 @@
 function journey(input) {
     let budget = Number(input[0]);
-    let season = input[1]
+    let season = input[1];
     let price = 0;
     let breakPlace;
     let destination;
@@ -38,4 +38,5 @@ function journey(input) {
     console.log(`Somewhere in ${destination}`);
     console.log(`${breakPlace} - ${price.toFixed(2)}`);
 }
-journey(["1500","summer"])
+
+journey(["1500","summer"]);
