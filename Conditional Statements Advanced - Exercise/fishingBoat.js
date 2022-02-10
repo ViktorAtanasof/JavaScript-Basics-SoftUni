@@ -35,4 +35,5 @@ function fishingBoat(input) {
         console.log(`Not enough money! You need ${cost.toFixed(2)} leva.`);
     }
 }
-fishingBoat(["2000","Winter","13"])
+
+fishingBoat(["2000","Winter","13"]);
