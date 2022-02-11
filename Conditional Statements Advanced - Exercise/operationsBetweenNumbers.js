@@ -47,4 +47,5 @@ function operationsBetweenNumbers(input) {
             break;
     }
 }
-operationsBetweenNumbers(["10","12","+"])
+
+operationsBetweenNumbers(["10","12","+"]);
