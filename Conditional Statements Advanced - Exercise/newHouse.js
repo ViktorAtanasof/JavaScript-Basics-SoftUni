@@ -45,4 +45,5 @@ function newHouse(input) {
         console.log(`Not enough money, you need ${cost.toFixed(2)} leva more.`);
     }
 }
-newHouse(["Dahlias","112","460"])
+
+newHouse(["Dahlias","112","460"]);
