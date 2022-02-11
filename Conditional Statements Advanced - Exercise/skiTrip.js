@@ -58,4 +58,5 @@ function skiTrip(input) {
 
     console.log((result).toFixed(2));
 }
-skiTrip(["2","apartment","positive"])
+
+skiTrip(["2","apartment","positive"]);
