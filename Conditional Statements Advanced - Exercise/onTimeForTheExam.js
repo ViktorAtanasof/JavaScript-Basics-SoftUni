@@ -46,4 +46,5 @@ function onTimeForTheExam(input) {
         }
     }
 }
-onTimeForTheExam(["11", "30", "12", "29"])
+
+onTimeForTheExam(["11", "30", "12", "29"]);
