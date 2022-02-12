@@ -7,4 +7,5 @@ function numberInRange(input) {
         console.log("No");
     }
 }
-numberInRange(["100"])
+
+numberInRange(["100"]);
