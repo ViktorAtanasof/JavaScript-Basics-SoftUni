@@ -19,4 +19,5 @@ function cinemaTicket(input) {
             break;
     }
 }
-cinemaTicket(["Sunday"])
+
+cinemaTicket(["Sunday"]);
