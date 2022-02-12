@@ -36,4 +36,5 @@ function fruitShop(input) {
         console.log("error");
     }
 }
-fruitShop(["apple","Tuesday","2"])
+
+fruitShop(["apple","Tuesday","2"]);
