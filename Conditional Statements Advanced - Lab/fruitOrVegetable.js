@@ -21,4 +21,5 @@ function fruitOrVegetable(input) {
             break;
     }
 }
-fruitOrVegetable(["carrot"])
+
+fruitOrVegetable(["carrot"]);
