@@ -19,4 +19,5 @@ function dayOfWeek(input) {
         default: console.log("Error");
     }
 }
+
 dayOfWeek(["1"]);
