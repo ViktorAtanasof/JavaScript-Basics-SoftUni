@@ -12,4 +12,5 @@ function animalType(input) {
         break;
     }
 }
-animalType(["crocodile"])
+
+animalType(["crocodile"]);
