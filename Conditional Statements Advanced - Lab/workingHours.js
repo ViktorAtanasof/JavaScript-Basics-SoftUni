@@ -19,4 +19,5 @@ function workingHours(input) {
         console.log("closed");
     }
 }
-workingHours(["11","Sunday"])
+
+workingHours(["11","Sunday"]);
