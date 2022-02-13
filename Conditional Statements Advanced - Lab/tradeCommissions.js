@@ -65,4 +65,5 @@ function tradeCommissions(input) {
             break;
     }
 }
-tradeCommissions(["Plovdiv","-20"])
+
+tradeCommissions(["Plovdiv","-20"]);
