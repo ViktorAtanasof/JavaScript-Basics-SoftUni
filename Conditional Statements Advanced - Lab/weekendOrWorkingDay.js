@@ -18,4 +18,5 @@ function weekendOrWorkingDay(input) {
             break;
     }
 }
-weekendOrWorkingDay(["Tuesday"])
+
+weekendOrWorkingDay(["Tuesday"]);
