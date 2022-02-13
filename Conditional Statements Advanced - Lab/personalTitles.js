@@ -17,4 +17,5 @@ function personalTitles(input) {
         }
     }
 }   
-personalTitles(["13.5","m"])
+
+personalTitles(["13.5","m"]);
