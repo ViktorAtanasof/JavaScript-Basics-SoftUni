@@ -48,4 +48,5 @@ function smallShop(input) {
     }
     console.log(finalPrice);
 }
-smallShop(["sweets","Sofia","2.23"])
+
+smallShop(["sweets","Sofia","2.23"]);
