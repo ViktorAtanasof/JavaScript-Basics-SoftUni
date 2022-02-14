@@ -8,7 +8,6 @@ function basketballEquipment(input){
     let totalPrice =  shoesPrice + equipmentPrice + ballPrice + accPrice + trainers;
 
     console.log(totalPrice);
-
-
 }
+
 basketballEquipment(["365"]);
