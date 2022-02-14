@@ -10,4 +10,5 @@ function fishTank(input){
 
     console.log(total)
 }
-fishTank(["85 ","75 ","47 ","17 "])
+
+fishTank(["85 ","75 ","47 ","17 "]);
