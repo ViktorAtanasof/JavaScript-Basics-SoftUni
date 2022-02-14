@@ -9,4 +9,5 @@ function deposit(input){
     let totalSum = depositValue + depositPeriod * interestPerMonth;
     console.log(totalSum);
 }
-deposit(["200","3","5.7"])
+
+deposit(["200","3","5.7"]);
