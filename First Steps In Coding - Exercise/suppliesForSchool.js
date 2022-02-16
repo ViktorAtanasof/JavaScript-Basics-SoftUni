@@ -6,7 +6,8 @@ function suppliesForSchool(input){
     let sum = pens + markers + cleaningSpray;
     let totalSum = sum - sum * discount/100;
 
-    console.log(totalSum)
+    console.log(totalSum);
 
 }
-suppliesForSchool(["2","3","4","25"])
+
+suppliesForSchool(["2","3","4","25"]);
