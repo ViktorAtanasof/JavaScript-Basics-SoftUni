@@ -5,4 +5,5 @@ function radiansToDegrees(input){
     console.log(degrees);
 
 }
-radiansToDegrees(["3.1416"])
+
+radiansToDegrees(["3.1416"]);
