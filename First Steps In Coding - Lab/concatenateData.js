@@ -6,4 +6,5 @@ function concatenateData(input) {
 
     console.log(`You are ${firstName} ${lastName}, a ${age}-years old person from ${town}.`);
 }
-concatenateData(["Viktor","Atanasov","16","Sofia"])
+
+concatenateData(["Viktor","Atanasov","16","Sofia"]);
