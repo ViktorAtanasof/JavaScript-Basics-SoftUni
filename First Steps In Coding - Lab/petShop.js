@@ -6,4 +6,4 @@ function petShop(input) {
     console.log(`${totalSum} lv.`);
 }
 
-zooShop(["5","4"]);
+petShop(["5","4"]);
