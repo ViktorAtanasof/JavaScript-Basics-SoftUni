@@ -3,4 +3,5 @@ function squareArea(input) {
     let area = a*a;
     console.log(area);
 }
-squareArea()
+
+squareArea();
