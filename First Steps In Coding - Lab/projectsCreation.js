@@ -5,4 +5,5 @@ function project(input) {
 
     console.log(`The architect ${name} will need ${hours} hours to complete ${projects} project/s.`);
 }
-project(["George","4"])
+
+project(["George","4"]);
