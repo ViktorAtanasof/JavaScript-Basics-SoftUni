@@ -1,4 +1,4 @@
-function circleAreaandPerimeter(input) {
+function circleAreaAndPerimeter(input) {
     let r = Number(input[0]);
     let circleFace = Math.PI * r * r;
     let perimeter = 2 * Math.PI * r;
@@ -6,4 +6,5 @@ function circleAreaandPerimeter(input) {
     console.log(`${circleFace.toFixed(2)}`);
     console.log(`${perimeter.toFixed(2)}`);
 }
-circleAreaandPerimeter(["3"]);
+
+circleAreaAndPerimeter(["3"]);
