@@ -5,6 +5,7 @@ function trapezoid(input) {
 
     let trapFace = (b1 + b2) * h / 2;
 
-    console.log(trapFace.toFixed(2))
+    console.log(trapFace.toFixed(2));
 }
+
 trapezoid(["8", "13", "7"]);
