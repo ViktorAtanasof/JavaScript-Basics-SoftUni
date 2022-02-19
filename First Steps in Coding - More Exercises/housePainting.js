@@ -21,4 +21,5 @@ function housePainting(input) {
     console.log(greenColor.toFixed(2));
     console.log(redColor.toFixed(2));
 }
+
 housePainting(["6", "10", "5.2"]);
