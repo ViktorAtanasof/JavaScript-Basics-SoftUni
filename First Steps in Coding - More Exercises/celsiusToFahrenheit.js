@@ -1,7 +1,8 @@
-function cToF(input) {
+function celsiusToFahrenheit(input) {
     let celsius = Number(input[0]);
     let celToFahr = celsius * 1.8 + 32;
 
     console.log(celToFahr.toFixed(2));
 }
-cToF(["25"]);
+
+celsiusToFahrenheit(["25"]);
