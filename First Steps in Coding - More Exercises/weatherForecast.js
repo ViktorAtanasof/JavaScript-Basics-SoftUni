@@ -7,4 +7,5 @@ function weatherForecast(input) {
         console.log("It's cold outside!");
     }
 }
+
 weatherForecast(["cloudy"]);
