@@ -6,4 +6,5 @@ function triangleArea(input) {
 
     console.log(triangleFace.toFixed(2));
 }
+
 triangleArea(["20", "30"]);
