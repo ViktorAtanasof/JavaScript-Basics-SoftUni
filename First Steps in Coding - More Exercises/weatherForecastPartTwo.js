@@ -1,4 +1,4 @@
-function weatherForecastPart2(input) {
+function weatherForecastPartTwo(input) {
     let temperature = Number(input[0]);
 
     if (temperature >= 26.00 && temperature <= 35.00) {
@@ -15,4 +15,5 @@ function weatherForecastPart2(input) {
         console.log("unknown");
     }
 }
+
 weatherForecastPart2(["0"]);
