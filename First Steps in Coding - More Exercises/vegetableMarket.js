@@ -11,4 +11,5 @@ function vegShop(input) {
 
     console.log(sumTotalInEuro.toFixed(2));
 }
+
 vegShop(["0.194", "19.4", "10", "10"]);
