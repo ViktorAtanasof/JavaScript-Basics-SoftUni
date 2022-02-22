@@ -5,4 +5,5 @@ function multiplicationTable(input) {
         console.log(`${b} * ${a} = ${b * a}`);
     }
 }
-multiplicationTable(["5"])
+
+multiplicationTable(["5"]);
