@@ -31,4 +31,5 @@ function histogram(input) {
     console.log(p4.toFixed(2) + "%");
     console.log(p5.toFixed(2) + "%");
 }
-histogram(["3","1","2","999"])
+
+histogram(["3","1","2","999"]);
