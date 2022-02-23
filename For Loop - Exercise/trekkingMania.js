@@ -27,4 +27,5 @@ function trekkingMania(arr) {
     console.log(((k2 / sum) * 100).toFixed(2) + '%');
     console.log(((everest / sum) * 100).toFixed(2) + '%');
 }
-trekkingMania(["10","10","5","1","100","12",])
+
+trekkingMania(["10","10","5","1","100","12",]);
