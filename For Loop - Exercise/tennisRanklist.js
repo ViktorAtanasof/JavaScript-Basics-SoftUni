@@ -30,4 +30,5 @@ function tennisRanklist(input) {
     console.log(`${procent}%`);
 
 }
-tennisRanklist(["4", "750", "SF", "W", "SF", "W"])
+
+tennisRanklist(["4", "750", "SF", "W", "SF", "W"]);
