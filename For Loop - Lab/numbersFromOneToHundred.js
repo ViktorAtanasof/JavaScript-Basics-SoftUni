@@ -1,6 +1,7 @@
-function numsFrom1To100() {
+function numbersFromOneToHundred() {
     for (let a = 1; a <= 100; a++) {
         console.log(a);
     }
 }
-numsFrom1To100()
+
+numbersFromOneToHundred();
