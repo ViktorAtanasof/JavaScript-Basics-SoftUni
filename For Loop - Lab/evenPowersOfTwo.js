@@ -1,8 +1,9 @@
-function evenPowersof2(input) {
+function evenPowersOfTwo(input) {
     let a = Number(input[0]);
 
     for(let i = 0; i <= a; i+=2) {
         console.log(Math.pow(2,i));
     }
 }
-evenPowersof2(["3"])
+
+evenPowersOfTwo(["3"]);
