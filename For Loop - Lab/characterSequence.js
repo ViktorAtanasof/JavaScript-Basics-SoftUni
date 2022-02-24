@@ -5,4 +5,5 @@ function characterSequence(input) {
         console.log(word[i]);
     }
 }
-characterSequence(["softuni"])
+
+characterSequence(["softuni"]);
