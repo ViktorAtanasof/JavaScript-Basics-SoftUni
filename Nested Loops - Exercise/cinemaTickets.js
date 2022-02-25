@@ -45,6 +45,7 @@ function cinemaTickets(input) {
     console.log(`${standardTickets.toFixed(2)}% standard tickets.`);
     console.log(`${kidTickets.toFixed(2)}% kids tickets.`);
 }
+
 cinemaTickets(["The Matrix",
     "20",
     "student",
@@ -70,4 +71,4 @@ cinemaTickets(["The Matrix",
     "standard",
     "standard",
     "standard",
-    "Finish"])
+    "Finish"]);
