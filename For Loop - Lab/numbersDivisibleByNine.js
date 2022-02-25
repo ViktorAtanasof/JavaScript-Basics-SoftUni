@@ -1,4 +1,4 @@
-function numbersDivisibleby9(input) {
+function numbersDivisibleByNine(input) {
     let start = Number(input[0]);
     let end = Number(input[1]);
     let sum = 0;
@@ -16,4 +16,5 @@ function numbersDivisibleby9(input) {
         }
     }
 }
-numbersDivisibleby9(["100", "200"])
+
+numbersDivisibleByNine(["100", "200"]);
