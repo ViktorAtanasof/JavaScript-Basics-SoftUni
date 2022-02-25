@@ -8,4 +8,5 @@ function sumOfNumbers(input) {
     }
     console.log(`The sum of the digits is:${sum}`);
 }
-sumOfNumbers(["1234"])
+
+sumOfNumbers(["1234"]);
