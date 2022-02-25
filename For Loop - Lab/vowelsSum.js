@@ -17,4 +17,5 @@ function vowelsSum(input) {
     }
     console.log(sum);
 }
-vowelsSum(["hello"])
+
+vowelsSum(["hello"]);
