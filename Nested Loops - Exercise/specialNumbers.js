@@ -7,7 +7,7 @@ function specialNumbers(input) {
             for (let c = 1; c < 10; c++) {
                 for (let d = 1; d < 10; d++) {
                     if (n % a === 0 && n % b === 0 && n % c === 0 && n % d === 0) {
-                        result += `${a}${b}${c}${d} `
+                        result += `${a}${b}${c}${d} `;
                     }
                 }
             }
@@ -15,4 +15,5 @@ function specialNumbers(input) {
     }
     console.log(result);
 }
+
 specialNumbers(["3"]);
