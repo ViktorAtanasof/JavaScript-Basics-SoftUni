@@ -1,4 +1,4 @@
-function equalSumsEvenOddPosition(input) {
+function equalSumsEvenOddPositionTwo(input) {
     let startNumber = Number(input[0]);
     let endNumber = Number(input[1]);
     let result = "";
@@ -21,4 +21,5 @@ function equalSumsEvenOddPosition(input) {
     console.log(result);
 
 }
-equalSumsEvenOddPosition(["100000", "100050"])
+
+equalSumsEvenOddPositionTwo(["100000", "100050"]);
