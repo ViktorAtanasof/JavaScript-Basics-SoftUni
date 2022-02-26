@@ -21,4 +21,5 @@ function equalSumsEvenOddPosition(input) {
     console.log(result);
 
 }
-equalSumsEvenOddPosition(["100000", "100050"])
+
+equalSumsEvenOddPosition(["100000", "100050"]);
