@@ -41,4 +41,5 @@ function sumPrimeNonPrime(input) {
     console.log(`Sum of all prime numbers is: ${sumPrimeNumbers}`);
     console.log(`Sum of all non prime numbers is: ${sumNonPrimeNumbers}`);
 }
-sumPrimeNonPrime(["3", "9", "0", "7", "19", "4", "stop"])
+
+sumPrimeNonPrime(["3", "9", "0", "7", "19", "4", "stop"]);
