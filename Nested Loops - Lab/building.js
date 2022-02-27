@@ -16,4 +16,5 @@ function building(input) {
         console.log(floorString);
     }
 }
-building(["6", "4"])
+
+building(["6", "4"]);
