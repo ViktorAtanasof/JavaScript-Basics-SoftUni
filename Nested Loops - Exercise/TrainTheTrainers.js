@@ -25,4 +25,5 @@ function trainTheTrainers(input) {
     let avgGrade = sumOfGrade / counter;
     console.log(`Student's final assessment is ${avgGrade.toFixed(2)}.`);
 }
-trainTheTrainers(["2", "While-Loop", "6.00", "5.50", "For-Loop", "5.84", "5.66", "Finish"])
+
+trainTheTrainers(["2", "While-Loop", "6.00", "5.50", "For-Loop", "5.84", "5.66", "Finish"]);
