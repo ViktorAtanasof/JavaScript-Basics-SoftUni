@@ -1,4 +1,4 @@
-function sumofTwoNumbers(input) {
+function sumOfTwoNumbers(input) {
     let startInterval = Number(input[0]);
     let endInterval = Number(input[1]);
     let goalNumber = Number(input[2]);
@@ -16,6 +16,5 @@ function sumofTwoNumbers(input) {
     console.log(`${combinations} combinations - neither equals ${goalNumber}`);
 
 }
-sumofTwoNumbers(["1",
-    "10",
-    "5"])
+
+sumOfTwoNumbers(["1", "10", "5"]);
