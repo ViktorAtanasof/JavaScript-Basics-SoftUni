@@ -1,4 +1,4 @@
-function traveling(input) {
+function travelling(input) {
     let index = 0;
     let command = input[index];
     index++
@@ -18,4 +18,5 @@ function traveling(input) {
         index++;
     }
 }
-traveling(["Greece", "1000", "200", "200", "300", "100", "150", "240", "Spain", "1200", "300", "500", "193", "423", "End"])
+
+travelling(["Greece", "1000", "200", "200", "300", "100", "150", "240", "Spain", "1200", "300", "500", "193", "423", "End"]);
