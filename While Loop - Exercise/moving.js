@@ -20,4 +20,5 @@ function moving(input) {
     }
     else console.log(`${Math.abs(movedCartons - volume)} Cubic meters left.`);
 }
-moving(["10", "1", "2", "4", "6", "Done"])
+
+moving(["10", "1", "2", "4", "6", "Done"]);
