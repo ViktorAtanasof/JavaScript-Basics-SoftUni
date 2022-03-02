@@ -31,4 +31,5 @@ function coins(input) {
     }
     console.log(counter);
 }
-coins(["1.23"])
+
+coins(["1.23"]);
