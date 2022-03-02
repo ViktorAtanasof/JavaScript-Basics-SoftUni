@@ -28,7 +28,7 @@ function vacation(input) {
         }
 
         if (spendCounter === 5) {
-            console.log("You can't save the money.")
+            console.log("You can't save the money.");
             console.log(counter);
             isSaveMoney = false;
             break;
@@ -36,12 +36,13 @@ function vacation(input) {
     }
 
     if (isSaveMoney) {
-        console.log(`You saved the money for ${counter} days.`)
+        console.log(`You saved the money for ${counter} days.`);
     }
 }
+
 vacation(["2000",
     "1000",
     "spend",
     "1200",
     "save",
-    "2000"])
+    "2000"]);
