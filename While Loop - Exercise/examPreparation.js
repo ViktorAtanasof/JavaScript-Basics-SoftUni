@@ -29,7 +29,7 @@ function examPreparation(input) {
         index++;
 
     }
-    let average = sumGrades / countExam
+    let average = sumGrades / countExam;
     if (isOk) {
 
         console.log(`Average score: ${average.toFixed(2)}`);
@@ -39,6 +39,7 @@ function examPreparation(input) {
         console.log(`You need a break, ${badGradesCount} poor grades.`);
     }
 }
+
 examPreparation(["3",
     "Money",
     "6",
@@ -48,4 +49,4 @@ examPreparation(["3",
     "5",
     "Bus",
     "6",
-    "Enough"])
+    "Enough"]);
