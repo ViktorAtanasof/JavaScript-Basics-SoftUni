@@ -17,9 +17,10 @@ function oldBooks(input) {
         console.log("The book you search is not here!");
         console.log(`You checked ${index - 1} books.`);
     } else {
-        console.log(`You checked ${index - 1} books and found it.`)
+        console.log(`You checked ${index - 1} books and found it.`);
     }
 }
+
 oldBooks(["Bourne",
     "True Story",
     "Forever",
@@ -31,4 +32,4 @@ oldBooks(["Bourne",
     "Tripple",
     "Stella",
     "The Matrix",
-    "Bourne"])
+    "Bourne"]);
