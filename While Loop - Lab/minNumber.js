@@ -1,4 +1,4 @@
-function minNumbers(input) {
+function minNumber(input) {
     let num = Number(input[0]);
     let index = 1;
     let min = Number.MAX_SAFE_INTEGER;
@@ -14,4 +14,5 @@ function minNumbers(input) {
     }
     console.log(min);
 }
-minNumbers(["100", "99", "80", "70", "Stop"])
+
+minNumber(["100", "99", "80", "70", "Stop"]);
