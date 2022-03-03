@@ -15,4 +15,5 @@ function maxNumbers(input) {
     console.log(max);
 
 }
-maxNumbers(["100", "99", "80", "70", "Stop"])
+
+maxNumbers(["100", "99", "80", "70", "Stop"]);
