@@ -26,6 +26,7 @@ function graduation(input) {
         console.log(`${name} graduated. Average grade: ${sum.toFixed(2)}`);
     }
 }
+
 graduation(["Mimi",
     "5",
     "6",
@@ -35,4 +36,4 @@ graduation(["Mimi",
     "6",
     "6",
     "2",
-    "3"])
+    "3"]);
