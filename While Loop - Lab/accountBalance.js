@@ -16,6 +16,5 @@ function accountBalance(input) {
     }
     console.log(`Total: ${totalSum.toFixed(2)}`);
 }
-accountBalance(["120",
-    "45.55",
-    "-150"])
+
+accountBalance(["120", "45.55", "-150"]);
