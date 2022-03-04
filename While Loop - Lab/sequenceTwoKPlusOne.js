@@ -1,4 +1,4 @@
-function sequence2kplus1(input) {
+function sequenceTwoKPlusOne(input) {
     let n = Number(input[0]);
     let counter = 1;
 
@@ -7,6 +7,6 @@ function sequence2kplus1(input) {
         counter = 2 * counter + 1;
 
     }
-
 }
-sequence2kplus1(["3"])
+
+sequenceTwoKPlusOne(["3"]);
