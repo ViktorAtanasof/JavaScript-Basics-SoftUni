@@ -6,15 +6,16 @@ function sumNumbers(input) {
     while (sum < targetSum) {
         let currentNum = Number(input[index]);
         sum += currentNum;
-        index++
+        index++;
     }
     console.log(sum);
 }
+
 sumNumbers(["20",
     "1",
     "2",
     "3",
     "4",
     "5",
-    "6"])
+    "6"]);
 
