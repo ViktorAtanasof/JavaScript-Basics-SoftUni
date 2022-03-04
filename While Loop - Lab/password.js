@@ -10,6 +10,7 @@ function password(input) {
     }
     console.log(`Welcome ${username}!`);
 }
+
 password(["Gosho",
     "secret",
-    "secret"])
+    "secret"]);
