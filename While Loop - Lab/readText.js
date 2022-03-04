@@ -8,6 +8,7 @@ function readText(input) {
         element = input[index];
     }
 }
+
 readText(["Sofia",
     "Berlin",
     "Moscow",
@@ -16,4 +17,4 @@ readText(["Sofia",
     "London",
     "Paris",
     "Stop",
-    "AfterStop"])
+    "AfterStop"]);
