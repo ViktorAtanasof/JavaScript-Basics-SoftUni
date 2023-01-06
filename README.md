@@ -22,19 +22,19 @@ and loops (for, while, do-while).
 - Simple operations and calculations
 
 
-## <p id="arrays">Conditional statements</p>
+## <p id="cs">Conditional statements</p>
 - Conditional statements (if, if-else)
 - Logical expressions
 - Tasks
 
 
-## <p id="arrays">Conditional statements - Advanced</p>
+## <p id="cs-advanced">Conditional statements - Advanced</p>
 - Nested conditionals
 - Switch-construction formatted output
 - Tasks
 
 
-## <p id="arrays">For Loop</p>
+## <p id="for-loop">For Loop</p>
 - For Loop
 - Control variables
 - Increment
