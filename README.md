@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # JS Basics course
 
 The "Programming Basics" course provides the initial programming skills necessary for all technology majors. This includes writing entry-level programming code
@@ -46,3 +48,5 @@ and loops (for, while, do-while).
 ## <p id="nested-loops">Nested Loops</p>
 - Nested Loops
 - More complex tasks with repetition structures
+
+(<a href="#top">back to top</a>)
